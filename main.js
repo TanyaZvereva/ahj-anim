@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector(".dropdown__container > button").addEventListener("click",(function(){document.querySelector(".dropdown__container div").classList.toggle("collapsed")}))})();
